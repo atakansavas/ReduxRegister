@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Firebase redux project",
+    "githubUrl": "https://github.com/atakansavas/ReduxRegister"
   }
 }
